@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="431 Staff">
-<meta name="dcterms.date" content="2024-11-25">
+<meta name="dcterms.date" content="2025-09-04">
 
 <title>Data Development – 431 Project A</title>
 <style>
@@ -4957,7 +4957,7 @@ window.Quarto = {
   <li><a href="#data-requirements-for-study-1-and-study-2" id="toc-data-requirements-for-study-1-and-study-2" class="nav-link active" data-scroll-target="#data-requirements-for-study-1-and-study-2">Data Requirements for Study 1 and Study 2</a></li>
   <li><a href="#tips-on-cleaning-your-data" id="toc-tips-on-cleaning-your-data" class="nav-link" data-scroll-target="#tips-on-cleaning-your-data">Tips on Cleaning Your Data</a></li>
   <li><a href="#to-use-data-from-nhanes-national-health-and-nutrition-examination-survey." id="toc-to-use-data-from-nhanes-national-health-and-nutrition-examination-survey." class="nav-link" data-scroll-target="#to-use-data-from-nhanes-national-health-and-nutrition-examination-survey.">To use data from NHANES (National Health and Nutrition Examination Survey).</a></li>
-  <li><a href="#to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-loves-approval." id="toc-to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-loves-approval." class="nav-link" data-scroll-target="#to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-loves-approval.">To use data from a non-NHANES source that meets with Dr. Love’s approval.</a></li>
+  <li><a href="#to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-zhangs-approval." id="toc-to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-zhangs-approval." class="nav-link" data-scroll-target="#to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-zhangs-approval.">To use data from a non-NHANES source that meets with Dr. Zhang’s approval.</a></li>
   </ul>
 </nav>
     </div>
@@ -4983,7 +4983,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">2024-11-25</p>
+      <p class="date">2025-09-04</p>
     </div>
   </div>
   
@@ -4995,12 +4995,12 @@ window.Quarto = {
 </header>
 
 
-<p>You must use the same data source for Study 1 and Study 2 in Project B. That data source must either be:</p>
+<p>You must use the same data source for Study 1 and Study 2 in Project A. That data source must either be:</p>
 <ul>
 <li>NHANES data, as <a href="./data2.html">discussed here</a>.</li>
 <li>something else, as <a href="./data3.html">discussed here</a>.
 <ul>
-<li>To encourage people to use data other than NHANES, there is a four-point bonus in the final project B grade available for all projects which use non-NHANES data.</li>
+<li>To encourage people to use data other than NHANES, there is a four-point bonus in the final project A grade available for all projects which use non-NHANES data.</li>
 </ul></li>
 </ul>
 <section id="data-requirements-for-study-1-and-study-2" class="level1">
@@ -5052,7 +5052,7 @@ window.Quarto = {
 <li>If you have a quantitative variable that includes a code like 5555 or 9999 for “don’t know” or “missing”, you will need to identify those cases as missing when ingesting the data, just as you would if you were working with a categorical variable.</li>
 <li>Be sure that R recognizes things that are missing as missing.</li>
 </ul></li>
-<li><p>Collapse levels sensibly for multi-categorical variables with more than 6 categories. If you want to use more than 6 categories for a categorical variable in your analyses, contact Dr. Love.</p>
+<li><p>Collapse levels sensibly for multi-categorical variables with more than 6 categories. If you want to use more than 6 categories for a categorical variable in your analyses, contact Dr. Zhang.</p>
 <ul>
 <li>If you have a categorical variable with codes like 77, 88 or 99, in addition to treating those as missing, you want to drop those levels from the factors you create. I recommend you run <strong>droplevels()</strong> on your tibble to remove all factor levels with zero subjects. That can help down the line.</li>
 </ul></li>
@@ -5087,11 +5087,11 @@ window.Quarto = {
 <h1>To use data from NHANES (National Health and Nutrition Examination Survey).</h1>
 <ul>
 <li>Please read the <strong>Data Requirements for Study 1 and Study 2</strong> and <strong>Tips on Cleaning Your Data</strong> above, then read the additional details on what is required if you’re <a href="./data2.html">working with NHANES data here</a>.</li>
-<li>Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a four-point bonus in the final project B grade available for all projects which use non-NHANES data.</li>
+<li>Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a four-point bonus in the final project A grade available for all projects which use non-NHANES data.</li>
 </ul>
 </section>
-<section id="to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-loves-approval." class="level1">
-<h1>To use data from a non-NHANES source that meets with Dr. Love’s approval.</h1>
+<section id="to-use-data-from-a-non-nhanes-source-that-meets-with-dr.-zhangs-approval." class="level1">
+<h1>To use data from a non-NHANES source that meets with Dr. Zhang’s approval.</h1>
 <ul>
 <li>Please read the <strong>Data Requirements for Study 1 and Study 2</strong> and <strong>Tips on Cleaning Your Data</strong> above, then read the additional details on what is required if you’re instead <a href="./data3.html">working with some other data source here</a>.</li>
 <li>Again, to encourage people to use data other than NHANES, there is a three-point bonus available to all projects which use non-NHANES data.</li>

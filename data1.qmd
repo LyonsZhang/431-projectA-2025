@@ -8,11 +8,11 @@ date: last-modified
 knitr::opts_chunk$set(comment = NA)
 ```
 
-You must use the same data source for Study 1 and Study 2 in Project B. That data source must either be:
+You must use the same data source for Study 1 and Study 2 in Project A. That data source must either be:
 
 - NHANES data, as [discussed here](data2.qmd).
 - something else, as [discussed here](data3.qmd).
-  - To encourage people to use data other than NHANES, there is a four-point bonus in the final project B grade available for all projects which use non-NHANES data.
+  - To encourage people to use data other than NHANES, there is a four-point bonus in the final project A grade available for all projects which use non-NHANES data.
 
 # Data Requirements for Study 1 and Study 2
 
@@ -52,7 +52,7 @@ You must use the same data source for Study 1 and Study 2 in Project B. That dat
     - If you have a quantitative variable that includes a code like 5555 or 9999 for "don't know" or "missing", you will need to identify those cases as missing when ingesting the data, just as you would if you were working with a categorical variable.
     - Be sure that R recognizes things that are missing as missing.
 
-5. Collapse levels sensibly for multi-categorical variables with more than 6 categories. If you want to use more than 6 categories for a categorical variable in your analyses, contact Dr. Love. 
+5. Collapse levels sensibly for multi-categorical variables with more than 6 categories. If you want to use more than 6 categories for a categorical variable in your analyses, contact Dr. Zhang. 
     - If you have a categorical variable with codes like 77, 88 or 99, in addition to treating those as missing, you want to drop those levels from the factors you create. I recommend you run **droplevels()** on your tibble to remove all factor levels with zero subjects. That can help down the line.
 
 6. For NHANES folks, a few specific things:
@@ -84,9 +84,9 @@ You must use the same data source for Study 1 and Study 2 in Project B. That dat
 # To use data from NHANES (National Health and Nutrition Examination Survey). 
 
 - Please read the **Data Requirements for Study 1 and Study 2** and **Tips on Cleaning Your Data** above, then read the additional details on what is required if you're [working with NHANES data here](data2.qmd).
-- Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a four-point bonus in the final project B grade available for all projects which use non-NHANES data.
+- Many people (in past years) have felt that using NHANES data was a little easier than using another data source. To encourage people to use data other than NHANES, there is a four-point bonus in the final project A grade available for all projects which use non-NHANES data.
 
-# To use data from a non-NHANES source that meets with Dr. Love's approval. 
+# To use data from a non-NHANES source that meets with Dr. Zhang's approval. 
 
 - Please read the **Data Requirements for Study 1 and Study 2** and **Tips on Cleaning Your Data** above, then read the additional details on what is required if you're instead [working with some other data source here](data3.qmd).
 - Again, to encourage people to use data other than NHANES, there is a three-point bonus available to all projects which use non-NHANES data.
