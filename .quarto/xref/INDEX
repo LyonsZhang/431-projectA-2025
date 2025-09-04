@@ -13,5 +13,32 @@
   },
   "data3.qmd": {
     "data3.html": "1a167c37"
+  },
+  "task2.qmd": {
+    "task2.html": "bdfd5353"
+  },
+  "task1.qmd": {
+    "task1.html": "fbe7f57f"
+  },
+  "dashboard1.qmd": {
+    "dashboard1.html": "f13d03c2"
+  },
+  "self_eval.qmd": {
+    "self_eval.html": "ec564f5a"
+  },
+  "study1a.qmd": {
+    "study1a.html": "a560c7df"
+  },
+  "study1b.qmd": {
+    "study1b.html": "97fe9adc"
+  },
+  "study2a.qmd": {
+    "study2a.html": "15d838d9"
+  },
+  "study2b.qmd": {
+    "study2b.html": "1a02de96"
+  },
+  "register.qmd": {
+    "register.html": "bc707651"
   }
 }
