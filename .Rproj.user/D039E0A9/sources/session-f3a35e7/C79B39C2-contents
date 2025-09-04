@@ -23,7 +23,8 @@ If you don't want to use NHANES data, you will need to obtain Dr. Zhang's approv
 1. The data must be **freely available** to all, and there must be no risk associated with your using the data for this project of any kind. Your use of the data for this project must not be subject to IRB approval, or the approval of anyone other than you (so, for example, if you would also need the approval of a principal investigator to use the data, that won't work for Project A.) 
     - There can be no protected health information or protected information or privacy risk of any kind involved with the data.
 
-2. Dr. Zhang will need to see your source for the data in its entirety. You will need to be able to provide a link to a web page from which you (and Dr. Zhang and anyone else) can **download the raw data** as part of your [registration for the project](register.qmd) in mid-November.
+2. Dr. Zhang will need to see your source for the data in its entirety. You will need to be able to provide a link to a web page from which you (and Dr. Zhang and anyone else) can **download the raw data** as part of your project submission.
+<!--[registration for the project](register.qmd) in mid-November.-->
 
 3. The data must be cross-sectional, rather than longitudinal.
     - The only exception to this rule would be data where a baseline set of predictors is measured, which might include the baseline measure of the outcome, and then the outcome (and only the outcome) is measured at a later time.
