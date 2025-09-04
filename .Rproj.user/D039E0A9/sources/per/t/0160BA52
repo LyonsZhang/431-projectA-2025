@@ -1,20 +1,20 @@
 {
-    "id": "20E16DD9",
-    "path": "~/Documents/GitHub/431-projectA-2025/study1a.qmd",
-    "project_path": "study1a.qmd",
+    "id": "0160BA52",
+    "path": "~/Documents/GitHub/431-projectA-2025/study1b.qmd",
+    "project_path": "study1b.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1863823524",
     "contents": "",
     "dirty": false,
-    "created": 1757010856852.0,
+    "created": 1757010914251.0,
     "source_on_save": false,
-    "relative_order": 10,
+    "relative_order": 11,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,143",
-        "scrollLine": "20"
+        "cursorPosition": "24,145",
+        "scrollLine": "21"
     },
     "folds": "",
     "lastKnownWriteTime": 1732568812,

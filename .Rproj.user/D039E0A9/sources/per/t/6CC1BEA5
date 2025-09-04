@@ -1,18 +1,20 @@
 {
-    "id": "F677C124",
-    "path": "~/Documents/GitHub/431-projectA-2025/register.qmd",
-    "project_path": "register.qmd",
+    "id": "6CC1BEA5",
+    "path": "~/Documents/GitHub/431-projectA-2025/dashboard2.qmd",
+    "project_path": "dashboard2.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "670780748",
     "contents": "",
     "dirty": false,
-    "created": 1757000019543.0,
+    "created": 1756933253428.0,
     "source_on_save": false,
-    "relative_order": 7,
+    "relative_order": 2,
     "properties": {
         "rmdVisualMode": "false",
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "5,8",
+        "scrollLine": "3"
     },
     "folds": "",
     "lastKnownWriteTime": 1732568812,
