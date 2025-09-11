@@ -389,14 +389,14 @@
     "href": "task2.html",
     "title": "Task B: Create a dashboard and blog in your website",
     "section": "",
-    "text": "Please read through the tutorials for Quarto Dashboards https://quarto.org/docs/dashboards/"
+    "text": "#&lt;– this is comented out –&gt; - Please read through the tutorials for Quarto Dashboards https://quarto.org/docs/dashboards/"
   },
   {
     "objectID": "task2.html#getting-started-with-quarto-dashboard",
     "href": "task2.html#getting-started-with-quarto-dashboard",
     "title": "Task B: Create a dashboard and blog in your website",
     "section": "",
-    "text": "Please read through the tutorials for Quarto Dashboards https://quarto.org/docs/dashboards/"
+    "text": "#&lt;– this is comented out –&gt; - Please read through the tutorials for Quarto Dashboards https://quarto.org/docs/dashboards/"
   },
   {
     "objectID": "task2.html#examples-of-quarto-dashboard-using-r-coding",

@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/431-projectA-2025/task2.qmd",
     "project_path": "task2.qmd",
     "type": "quarto_markdown",
-    "hash": "99416933",
+    "hash": "2686597946",
     "contents": "",
     "dirty": false,
     "created": 1757000058220.0,
@@ -13,15 +13,15 @@
         "rmdVisualMode": "false",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,1",
-        "scrollLine": "8"
+        "cursorPosition": "11,0",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1757624739,
+    "lastKnownWriteTime": 1757625675,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1757624739528,
+    "last_content_update": 1757625675307,
     "read_only": false,
     "read_only_alternatives": []
 }
