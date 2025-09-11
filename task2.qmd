@@ -9,7 +9,7 @@ knitr::opts_chunk$set(comment = NA)
 ```
 
 ## Getting Started with Quarto Dashboard
-
+#<-- this is comented out -->
 - Please read through the tutorials for Quarto Dashboards [https://quarto.org/docs/dashboards/](https://quarto.org/docs/dashboards/)
 
 ## Data Development and Analyses
